@@ -2,6 +2,20 @@ package org.example;
 
 import java.util.Scanner;
 
+/*
+*
+*
+*
+*  ATENCAO ESTE E UM PROJETO DE ESTUDO, NAO UTILIZAR O MESMO EM PRODUCAO SENDO APENAS UM CODIGO UTILIZADO PARA TESTS E APRENDIZADO
+*
+*
+*
+*  */
+
+
+
+
+
 
 
 public class Main {
